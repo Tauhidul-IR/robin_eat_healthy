@@ -38,6 +38,7 @@ span {
 p {
     color: rgb(130, 131, 131);
     margin-bottom: 60px;
+    text-align: justify;
 }
 
 a {
@@ -76,4 +77,76 @@ a {
     font-size: 35px;
     padding-top: 100px;
     color: #6F706F;
+}
+
+.recip {}
+
+.recip-title {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-t;
+}
+
+.food {}
+
+h3 {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+
+.photo {}
+
+.foods {
+    width: 80%;
+    margin: auto;
+    box-shadow: 10px 10px 20px #888888;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.third-width {
+    width: 25%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.follower {
+    box-shadow: 10px 10px 20px #888888;
+    border-radius: 10px;
+    width: 80%;
+    margin: 80px auto;
+
+}
+
+.follower h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.follower p {
+    color: black;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+}
+
+footer h2 {
+    color: #47494A;
+    margin: 0;
+    margin-bottom: 20px;
+    padding-top: 35px;
+}
+
+footer h5 {
+    padding-bottom: 60px;
+    color: white;
+    margin: 0;
 }
