@@ -50,3 +50,30 @@ a {
     font-weight: 900;
     box-shadow: 1px 0px 0px 6px #FDDBC1;
 }
+
+.about-section {
+    background-image: url(images/shapes/Frame.jpg);
+    background-repeat: no-repeat;
+}
+
+.about-section img {
+    width: 60%;
+    padding-top: 70px;
+}
+
+.about-container {
+    width: 80%;
+    display: flex;
+
+    margin: auto;
+}
+
+.about-me {}
+
+.paragraph {}
+
+.about {
+    font-size: 35px;
+    padding-top: 100px;
+    color: #6F706F;
+}
